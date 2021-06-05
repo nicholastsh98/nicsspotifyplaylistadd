@@ -1,24 +1,3 @@
-# nicsspotifyplaylistadder
-#et directory to nicsvfree
-#(cd nicsvfree)
-#create virtual env 
-#(py -m venv nicspotifyapp)
-#nicspotifyapp\Script\activate
-
-#setvariables on command prompt
-#set SPOTIPY_CLIENT_ID=06db49bf2c40470ea02d5f8886aa73c6
-
-#set SPOTIPY_CLIENT_SECRET=b5118d429f694e878803d6393507c8f9
-
-
-#set SPOTIPY_REDIRECT_URI=http://127.0.0.1:8080/
-
-#run via command prompt
-
-#python3 spotifyplaylist.py
-
-
-
 
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
