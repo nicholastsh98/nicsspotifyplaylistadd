@@ -3,7 +3,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import json
 scope = 'playlist-modify-public'
-username = 'iz6wb3jz8sf98gch08ef1q3jg'
+username = 'TO BE FIGURED'
 
 token = SpotifyOAuth(scope=scope,username=username)
 spotifyObject = spotipy.Spotify(auth_manager = token)
